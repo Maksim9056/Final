@@ -22,6 +22,7 @@ namespace ConsoleApp28
                     list.Add(value);
                 }
             }
+
             int[] anArrayNodes = new int[30];
 
             for (int i = 0; i < anArrayNodes.Length; i++)
